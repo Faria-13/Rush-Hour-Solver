@@ -1,0 +1,7 @@
+
+
+1. The board, previous moves
+2. use the method "Get possible moves" and get the next move for each of them, make a new successor
+3. if the movecount was increased, that means a valid move was made. 
+4. use the game's isGameOver() method to see if we reached the goal
+5. we have a copy constructor for the successors 
